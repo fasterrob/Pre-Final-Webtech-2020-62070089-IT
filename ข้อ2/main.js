@@ -21,3 +21,8 @@ function dataReportStatus(data) {
         </div></div>`;
     }
 }
+
+function search() {
+    document.getElementById("gogo").val;
+    document.getElementById("doc").innerHTML = '';
+}

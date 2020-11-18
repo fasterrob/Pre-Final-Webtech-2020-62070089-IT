@@ -16,3 +16,15 @@ img {
     width: 250px;
     border: 1px solid black;
 }
+
+h5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.search {
+    text-align: center;
+}
+
+.btn {
+    margin: 1em;
+}
